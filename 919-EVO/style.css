@@ -1,0 +1,59 @@
+.header{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Arial Narrow Bold', sans-serif ;
+    font-weight: 900;
+    text-shadow: 5px 5px 4px red;
+    background-color: black;
+
+}
+body {
+    background-color: #000000;
+    margin: 5%;
+    color: white;
+}
+.image
+{
+    border:3px inset white;
+    margin:5px 10px 5px 10px;
+    border-radius: 10px;
+   display:inline-block;
+}
+.caption
+{
+    font-size: 32px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 2px red;
+}
+.tribute-data{
+    background-color:rgb(229, 4, 4);
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    border:5px solid wheat;
+    padding:7px 7px 7px 7px;
+    margin:10px 10px 10px 10px;
+    font-family: 'Comic Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 5px 5px 5px lightcoral;
+    background-image: url('https://imgd.aeplcdn.com/1280x720/cw/ec/35077/Porsche-911-Exterior-130631.jpg?wm=0');
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    font-weight: 600;
+}
+.head2{
+    text-decoration: underline;
+    text-align: center;
+}
+footer{
+    font-size:20px;
+    border: 3px inset whitesmoke;
+    color:white;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius:5px;
+
+}
